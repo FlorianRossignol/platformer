@@ -1,0 +1,10 @@
+^C:\USERS\FMUSI\SAE\PLATFORMER\CMAKEFILES\605381B9FF391B01C0A3ED5A1E7B4FE5\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/fmusi/sae/platformer -BC:/Users/fmusi/sae/platformer --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/fmusi/sae/platformer/Platformer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,108 @@
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\SCATTLE - KNOCK KNOCK.OGG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy "C:/Users/fmusi/sae/platformer/data/sprites/Scattle - Knock Knock.ogg" "C:/Users/fmusi/sae/platformer/Build/data/sprites/Scattle - Knock Knock.ogg"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\ESPACE.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/espace.jpg C:/Users/fmusi/sae/platformer/Build/data/sprites/espace.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\JUMP.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/jump.png C:/Users/fmusi/sae/platformer/Build/data/sprites/jump.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\PLATFORM.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/platform.png C:/Users/fmusi/sae/platformer/Build/data/sprites/platform.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\PLAYER.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/player.png C:/Users/fmusi/sae/platformer/Build/data/sprites/player.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\TRUMP.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/trump.png C:/Users/fmusi/sae/platformer/Build/data/sprites/trump.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\91FCEFA6BC3BFE7F78D819479664EF60\WALK1.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/walk/walk1.png C:/Users/fmusi/sae/platformer/Build/data/sprites/walk/walk1.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\91FCEFA6BC3BFE7F78D819479664EF60\WALK2.PNG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/walk/walk2.png C:/Users/fmusi/sae/platformer/Build/data/sprites/walk/walk2.png
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\8A46F8CB2DD020FE3AEC35AD9C0AC1C8\WALL.JPG.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy C:/Users/fmusi/sae/platformer/data/sprites/wall.jpg C:/Users/fmusi/sae/platformer/Build/data/sprites/wall.jpg
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\BUILD\CMAKEFILES\4DF8450F2DA314BD4B8F7F7AA4F63AA3\DATATARGET.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\FMUSI\SAE\PLATFORMER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/fmusi/sae/platformer -BC:/Users/fmusi/sae/platformer/Build --check-stamp-file C:/Users/fmusi/sae/platformer/Build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

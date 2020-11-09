@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\Scattle - Knock Knock.ogg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\espace.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\jump.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\platform.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\player.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\trump.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\91fcefa6bc3bfe7f78d819479664ef60\walk1.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\91fcefa6bc3bfe7f78d819479664ef60\walk2.png.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\8a46f8cb2dd020fe3aec35ad9c0ac1c8\wall.jpg.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\4df8450f2da314bd4b8f7f7aa4f63aa3\DataTarget.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\fmusi\sae\platformer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\fmusi\sae\platformer\Build\CMakeFiles\DataTarget" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{83B9323A-7845-3654-ADE9-6C890BF6555F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

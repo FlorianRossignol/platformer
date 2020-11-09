@@ -1,0 +1,4 @@
+C:/Users/fmusi/sae/platformer/Build/CMakeFiles/DataTarget.dir
+C:/Users/fmusi/sae/platformer/Build/CMakeFiles/Platformer.dir
+C:/Users/fmusi/sae/platformer/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/fmusi/sae/platformer/Build/CMakeFiles/ZERO_CHECK.dir
